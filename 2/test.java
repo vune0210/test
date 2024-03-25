@@ -26,6 +26,7 @@ public class fun_schedule {
         } catch (FileNotFoundException e) {
             System.out.println(e.getMessage());
         }
+        d
         int n;
         System.out.println("Đã nhận vào số n");
         n = sc.nextInt();
@@ -38,4 +39,5 @@ public class fun_schedule {
         }
         return p;
     }
+    abstract
 }
